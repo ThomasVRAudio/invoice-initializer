@@ -44,7 +44,7 @@ Tags you can use in your word document:
 ![image](https://user-images.githubusercontent.com/38658020/200164768-be544353-3a14-4197-b085-425d5a7693f3.png)
 
 ### Launch
-- Step One: Enter Client ID
+- Step One: Enter Client ID Number
 - Step Two: Enter Cost
 
 That's it! It will generate a filled in invoice document for you
